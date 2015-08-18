@@ -1,0 +1,20 @@
+{
+  "name": "@sand/eventsd",
+  "version": "1.0.0",
+  "description": "Sand EventsD",
+  "main": "lib/EventsD.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.sazze.com:sand/eventsd.git"
+  },
+  "author": "Kevin Smithson <ksmithson@sazze.com>",
+  "license": "ISC",
+  "dependencies": {
+    "sand-grain": "^1.0.1",
+    "sz-eventsd": "git+ssh://git@gitlab.sazze.com:nodejs/sz-eventsd.git#0.0.2",
+    "winston": "^1.0.1"
+  }
+}
