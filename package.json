@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "sand-grain": "^1.0.1",
-    "sz-eventsd": "git+ssh://git@gitlab.sazze.com:nodejs/sz-eventsd.git#0.0.2",
+    "sz-eventsd": "0.0.2",
     "winston": "^1.0.1"
   }
 }
