@@ -1,6 +1,6 @@
 {
-  "name": "@sand/eventsd",
-  "version": "1.0.6",
+  "name": "sand-eventsd",
+  "version": "1.0.7",
   "description": "Sand EventsD",
   "main": "lib/EventsD.js",
   "scripts": {
@@ -8,13 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.sazze.com:sand/eventsd.git"
+    "url": "git@github.com:SandJS/eventsd.git"
   },
   "author": "Kevin Smithson <ksmithson@sazze.com>",
   "license": "ISC",
   "dependencies": {
     "sand-grain": "^1.0.1",
-    "sz-eventsd": "git+http://gitlab.sazze.com/nodejs/sz-eventsd.git#0.0.2",
+    "eventsd": "0.1.1",
     "winston": "^1.0.1"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
   }
 }
