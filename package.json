@@ -1,6 +1,6 @@
 {
   "name": "sand-eventsd",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Sand EventsD",
   "main": "lib/EventsD.js",
   "scripts": {
