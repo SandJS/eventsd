@@ -13,8 +13,9 @@
   "author": "Kevin Smithson <ksmithson@sazze.com>",
   "license": "ISC",
   "dependencies": {
-    "sand-grain": "^1.0.1",
     "eventsd": "0.1.1",
+    "lodash": "^4.16.4",
+    "sand-grain": "^1.0.1",
     "winston": "^1.0.1"
   },
   "publishConfig": {
